@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "348038210181",
+    "project_id": "balam-chat-app",
+    "storage_bucket": "balam-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348038210181:android:358977f7832871b4b03fec",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348038210181-mj5q0ns4nd14t0mq5bnn0upif1pmmct2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "5dd404e933db0bd838b4b1754cd5c11dc22a0288"
+          }
+        },
+        {
+          "client_id": "348038210181-rgfk3c7r0urm170t940ep44e8e3m4rob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAePEk1AdFSE5x8-J6P1tK1-Go580roc9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348038210181-rgfk3c7r0urm170t940ep44e8e3m4rob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
